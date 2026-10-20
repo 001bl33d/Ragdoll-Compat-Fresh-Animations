@@ -1,0 +1,2 @@
+b8f4bce105f7a01e22ab6f835f163b0e6fbf481d0b197d5d2a3771466bac372f  ragdoll-compat-fresh-animations-1.0.0-source.zip
+be7315ab37e393fdf38d860afacf215a25068c32cff5d2f9ed757117f6aba11c  ragdoll-compat-fresh-animations-neoforge-1.21.1-1.0.0.jar
